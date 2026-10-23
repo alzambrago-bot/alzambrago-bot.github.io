@@ -1,0 +1,173 @@
+[
+  {
+    "slug": "kit-azul",
+    "nombre": "Kit de lonchera azul",
+    "categoria": "loncheras",
+    "precio_cop": 165000,
+    "pagina_catalogo": 27,
+    "detalle": "Maleta, lonchera y termo · 22,6 × 17,6 × 7 cm",
+    "imagen": "assets/catalogo/kit-azul.webp"
+  },
+  {
+    "slug": "kit-rosa",
+    "nombre": "Kit de lonchera rosada",
+    "categoria": "loncheras",
+    "precio_cop": 165000,
+    "pagina_catalogo": 27,
+    "detalle": "Maleta, lonchera y termo · 22,6 × 17,6 × 7 cm",
+    "imagen": "assets/catalogo/kit-rosa.webp"
+  },
+  {
+    "slug": "lonchera-giratoria-6",
+    "nombre": "Lonchera giratoria de 6 compartimientos",
+    "categoria": "loncheras",
+    "precio_cop": 105000,
+    "pagina_catalogo": 28,
+    "detalle": "29,5 × 17,5 × 7 cm",
+    "imagen": "assets/catalogo/lonchera-giratoria-6.webp"
+  },
+  {
+    "slug": "lonchera-giratoria-5",
+    "nombre": "Lonchera giratoria de 5 compartimientos",
+    "categoria": "loncheras",
+    "precio_cop": 75000,
+    "pagina_catalogo": 29,
+    "detalle": "Dimensión indicada en el catálogo: 18 × 7,09 cm",
+    "imagen": "assets/catalogo/lonchera-giratoria-5.webp"
+  },
+  {
+    "slug": "bento-termo",
+    "nombre": "Lonchera Bento con termo interno",
+    "categoria": "loncheras",
+    "precio_cop": 105000,
+    "pagina_catalogo": 30,
+    "detalle": "3/4 compartimientos · termo de 300 ml · 22 × 19,5 × 7,5 cm",
+    "imagen": "assets/catalogo/bento-termo.webp"
+  },
+  {
+    "slug": "bento-ollita",
+    "nombre": "Lonchera Bento con ollita interna",
+    "categoria": "loncheras",
+    "precio_cop": 100000,
+    "pagina_catalogo": 31,
+    "detalle": "3/4 compartimientos · ollita de 300 ml · 21 × 19 × 6 cm",
+    "imagen": "assets/catalogo/bento-ollita.webp"
+  },
+  {
+    "slug": "bento-tritan-4",
+    "nombre": "Lonchera Bento Tritan de 4 compartimientos",
+    "categoria": "loncheras",
+    "precio_cop": null,
+    "pagina_catalogo": 32,
+    "detalle": "17,5 × 15 × 5 cm",
+    "imagen": "assets/catalogo/bento-tritan-4.webp"
+  },
+  {
+    "slug": "bento-tritan-6",
+    "nombre": "Lonchera Bento Tritan de 4/6 compartimientos",
+    "categoria": "loncheras",
+    "precio_cop": null,
+    "pagina_catalogo": 33,
+    "detalle": "21 × 15 × 4,5 cm",
+    "imagen": "assets/catalogo/bento-tritan-6.webp"
+  },
+  {
+    "slug": "termo-numeros",
+    "nombre": "Termo dinámico de números",
+    "categoria": "termos",
+    "precio_cop": 60000,
+    "pagina_catalogo": 19,
+    "detalle": "Acero inoxidable · 450 ml",
+    "imagen": "assets/catalogo/termo-numeros.webp"
+  },
+  {
+    "slug": "termo-pitillo",
+    "nombre": "Termo con pitillo",
+    "categoria": "termos",
+    "precio_cop": 55000,
+    "pagina_catalogo": 20,
+    "detalle": "Acero inoxidable · 350 ml",
+    "imagen": "assets/catalogo/termo-pitillo.webp"
+  },
+  {
+    "slug": "botilito-astronauta",
+    "nombre": "Botilito astronauta",
+    "categoria": "termos",
+    "precio_cop": 35000,
+    "pagina_catalogo": 24,
+    "detalle": "Capacidad de 1 litro",
+    "imagen": "assets/catalogo/botilito-astronauta.webp"
+  },
+  {
+    "slug": "contenedor-acero",
+    "nombre": "Contenedor de acero con cuchara",
+    "categoria": "recipientes",
+    "precio_cop": 55000,
+    "pagina_catalogo": 22,
+    "detalle": "Acero inoxidable · 300 ml · 12,5 × 8,7 cm",
+    "imagen": "assets/catalogo/contenedor-acero.webp"
+  },
+  {
+    "slug": "molde-pollito",
+    "nombre": "Molde pollito para huevo",
+    "categoria": "moldes",
+    "precio_cop": 16000,
+    "pagina_catalogo": 2,
+    "detalle": "Un detalle divertido para la hora de comer",
+    "imagen": "assets/catalogo/molde-pollito.webp"
+  },
+  {
+    "slug": "moldes-huevo",
+    "nombre": "Moldes para huevo o arroz x2",
+    "categoria": "moldes",
+    "precio_cop": 16000,
+    "pagina_catalogo": 2,
+    "detalle": "Set de dos moldes · consulta los diseños disponibles",
+    "imagen": "assets/catalogo/moldes-huevo.webp"
+  },
+  {
+    "slug": "molde-osito",
+    "nombre": "Molde para pan osito",
+    "categoria": "moldes",
+    "precio_cop": 6000,
+    "pagina_catalogo": 3,
+    "detalle": "Para darle forma a pequeños bocados",
+    "imagen": "assets/catalogo/molde-osito.webp"
+  },
+  {
+    "slug": "rodillo-infantil",
+    "nombre": "Rodillo infantil",
+    "categoria": "moldes",
+    "precio_cop": 18000,
+    "pagina_catalogo": 7,
+    "detalle": "Consulta los colores disponibles",
+    "imagen": "assets/catalogo/rodillo-infantil.webp"
+  },
+  {
+    "slug": "cortadores-sellador",
+    "nombre": "Cortador sellador grande",
+    "categoria": "moldes",
+    "precio_cop": 20000,
+    "pagina_catalogo": 8,
+    "detalle": "Precio por unidad · diferentes figuras",
+    "imagen": "assets/catalogo/cortadores-sellador.webp"
+  },
+  {
+    "slug": "pinchitos-ositos",
+    "nombre": "Pinchitos osito y perrito x8",
+    "categoria": "pinchitos",
+    "precio_cop": 18000,
+    "pagina_catalogo": 12,
+    "detalle": "Set de ocho pinchitos",
+    "imagen": "assets/catalogo/pinchitos-ositos.webp"
+  },
+  {
+    "slug": "pinchitos-ojos",
+    "nombre": "Pinchitos ojos de gatos x8",
+    "categoria": "pinchitos",
+    "precio_cop": 18000,
+    "pagina_catalogo": 12,
+    "detalle": "Set de ocho pinchitos",
+    "imagen": "assets/catalogo/pinchitos-ojos.webp"
+  }
+]
